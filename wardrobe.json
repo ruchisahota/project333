@@ -1,0 +1,123 @@
+[
+    {
+      "ID": 1,
+      "name": "Renee",
+      "type": "bottom",
+      "description" : "blue skirt"
+    },
+    {
+      "ID": 2,
+      "name": "Renee",
+      "type": "top",
+      "description" : "pink shirt"
+    },
+    {
+      "ID": 3,
+      "name": "Renee",
+      "type": "top",
+      "description" : "red blouse"
+    },
+    {
+      "ID": 4,
+      "name": "Renee",
+      "type": "bottom",
+      "description" : "black pants"
+    },
+    {
+      "ID": 5,
+      "name": "Renee",
+      "type": "bottom",
+      "description" : "white slacks"
+    },
+    {
+      "ID": 6,
+      "name": "Renee",
+      "type": "top",
+      "description" : "green tank"
+    },
+    {
+      "ID": 7,
+      "name": "Renee",
+      "type": "bottom",
+      "description" : "grey pants"
+    },
+    {
+      "ID": 8,
+      "name": "Renee",
+      "type": "top",
+      "description" : "yellow tank"
+    },
+    {
+      "ID": 9,
+      "name": "Renee",
+      "type": "top",
+      "description" : "polka shirt"
+    },
+    {
+      "ID": 10,
+      "name": "Renee",
+      "type": "bottom",
+      "description" : "white skirt"
+    },
+    {
+      "ID": 11,
+      "name": "Renee",
+      "type": "bottom",
+      "description" : "black capris"
+    },
+    {
+      "ID": 12,
+      "name": "Renee",
+      "type": "top",
+      "description" : "magenta blouse"
+    },
+    {
+      "ID": 13,
+      "name": "Renee",
+      "type": "accessory",
+      "description" : "white hat"
+    },
+    {
+      "ID": 14,
+      "name": "Renee",
+      "type": "accessory",
+      "description" : "gold bangle"
+    },
+    {
+      "ID": 15,
+      "name": "Renee",
+      "type": "accessory",
+      "description" : "white sunglasses"
+    },
+    {
+      "ID": 16,
+      "name": "Renee",
+      "type": "accessory",
+      "description" : "pink scarf"
+    },
+    {
+      "ID": 17,
+      "name": "Renee",
+      "type": "accessory",
+      "description" : "blue bangle"
+    },
+    {
+      "ID": 18,
+      "name": "Renee",
+      "type": "accessory",
+      "description" : "red bag"
+    },
+    {
+      "ID": 19,
+      "name": "Renee",
+      "type": "accessory",
+      "description" : "teal shoes"
+    },
+    {
+      "ID": 20,
+      "name": "Renee",
+      "type": "accessory",
+      "description" : "lilac shoes"
+    }
+
+  ]  
